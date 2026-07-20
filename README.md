@@ -12,7 +12,7 @@ A single-page 3D image carousel prepared for GitHub Pages.
 
 The site URL will be:
 
-`https://YOUR-USERNAME.github.io/YOUR-REPOSITORY-NAME/`
+`https://kgillio.github.io/Latest-Euro-Trip/`
 
 ## Important
 
